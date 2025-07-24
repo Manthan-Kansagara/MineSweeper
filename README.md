@@ -9,9 +9,14 @@ Inspired by the classic Inspired by the classic [Minesweeper game](https://en.wi
 
 ## 📁 Project Structure
 
+```plaintext
+
+.
 ├── Main.java # Entry point for the application
 ├── Grid.java # Core class for grid creation and manipulation
 └── InputTaker.java # Handles user input
+
+```
 
 ---
 
